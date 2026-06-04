@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Packaged or exported deliverables
+*.zip
+*.pbix
+*.pptx
+
+# Generated outputs and model artifacts
+outputs/
+submission_package/outputs/
+outputs/models/
+submission_package/outputs/models/
+
+# Keep the source package but ignore any regenerated archive
+submission_package.zip
